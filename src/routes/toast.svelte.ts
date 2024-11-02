@@ -1,4 +1,3 @@
-
 type Toast = {
     id:number,
     mensagem:string
